@@ -1,0 +1,60 @@
+
+{
+    "planetary_parameters": {
+        "Target Star RA": "20:00:43.709352",
+        "Target Star Dec": "+22:42:35.19324",
+        "Planet Name": "HD 189733 b",
+        "Host Star Name": "HD 189733",
+        "Orbital Period (days)": 2.21857519,
+        "Orbital Period Uncertainty": 1.4e-07,
+        "Published Mid-Transit Time (BJD-UTC)": 2454403.677711,
+        "Mid-Transit Time Uncertainty": 2.5e-05,
+        "Ratio of Planet to Stellar Radius (Rp/Rs)": 0.15033296378372907,
+        "Ratio of Planet to Stellar Radius (Rp/Rs) Uncertainty": 0.003821226231395418,
+        "Ratio of Distance to Stellar Radius (a/Rs)": 8.73,
+        "Ratio of Distance to Stellar Radius (a/Rs) Uncertainty": 0.15,
+        "Orbital Inclination (deg)": 85.69,
+        "Orbital Inclination (deg) Uncertainty": 0.09599479152537392,
+        "Orbital Eccentricity (0 if null)": 0.028,
+        "Argument of Periastron (deg)": 136.42,
+        "Star Effective Temperature (K)": 5040.0,
+        "Star Effective Temperature (+) Uncertainty": 50.0,
+        "Star Effective Temperature (-) Uncertainty": -50.0,
+        "Star Metallicity ([FE/H])": -0.03,
+        "Star Metallicity (+) Uncertainty": 0.08,
+        "Star Metallicity (-) Uncertainty": -0.08,
+        "Star Surface Gravity (log(g))": 4.59,
+        "Star Surface Gravity (+) Uncertainty": 0.01,
+        "Star Surface Gravity (-) Uncertainty": -0.01
+    },
+    "user_info": {
+            "Directory with FITS files": "data",
+            "Directory to Save Plots": "data/EXOTIC_output/",
+            "Directory of Flats": "data/flat",
+            "Directory of Darks": null,
+            "Directory of Biases": "data/bias",
+
+            "AAVSO Observer Code (N/A if none)": "N/A",
+            "Secondary Observer Codes (N/A if none)": "N/A",
+
+            "Observation date": "2022-09-21",
+            "Obs. Latitude": "+42.46",
+            "Obs. Longitude": "-76.38",
+            "Obs. Elevation (meters)": 150,
+            "Camera Type (CCD or DSLR)": "CCD",
+            "Pixel Binning": "1x1",
+            "Filter Name (aavso.org/filters)": "R",
+            "Observing Notes": "N/A",
+
+            "Plate Solution? (y/n)": "y",
+            "Align Images? (y/n)": "y",
+
+            "Target Star X & Y Pixel": [246,226],
+            "Comparison Star(s) X & Y Pixel": [[474,306]]
+    },    
+    "optional_info": {
+            "Pixel Scale (Ex: 5.21 arcsecs/pixel)": null,
+            "Filter Minimum Wavelength (nm)": null,
+            "Filter Maximum Wavelength (nm)": null
+    }
+}
